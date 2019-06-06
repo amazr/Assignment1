@@ -1,0 +1,60 @@
+Task 1.1: B
+        Welcome to Homework Score Sum!
+        Enter home work scores below, when you are done, enter "stop"
+        Enter score 1: 30
+        Enter score 2: 25
+        Enter score 3: 14
+        Enter score 4: 42
+        Enter score 5: 23
+        Enter score 6: stop
+        Homework point sum: 134
+        Fail
+        
+        C
+        Welcome to Homework Score Sum!
+        Enter score 1: 30
+        Do you have more scores to enter? ("yes"/"no"): yes
+        Enter score 2: 25
+        Do you have more scores to enter? ("yes"/"no"): yes
+        Enter score 3: 14
+        Do you have more scores to enter? ("yes"/"no"): yes
+        Enter score 4: 42
+        Do you have more scores to enter? ("yes"/"no"): yes
+        Enter score 5: 23
+        Do you have more scores to enter? ("yes"/"no"): no
+        Homework point sum: 134
+        Fail
+        
+Task 1.2: A
+        cout welcome message
+        cout collect number of homework assignments message
+        cin get number of homework assignments
+        foreach number of homework assignments
+                collect homework score
+                add to sum
+        conditional pass or fail
+        cout pass or fail
+        
+        B
+        cout welcome message
+        cout give user stop command
+        while score is not stop command
+                collect homework score
+                conditional to check for stop command
+                add to sum
+        conditional pass or fail
+        cout pass or fail
+        
+        C
+        cout welcome message
+        indefinite while loop
+                collect homework score
+                add to sum
+                ask if user wants to continue
+                conditional to check continuation
+        conditional pass or fail
+        cout pass or fail
+              
+                
+                
+        
