@@ -23,7 +23,7 @@ int main() {
 		}
 	}
 
-	cout << endl << "Homework point sum:" << sum << endl;
+	cout << endl << "Homework point sum: " << sum << endl;
 	
 	if (sum < 150) {
 		cout << "You Failed." << endl;
