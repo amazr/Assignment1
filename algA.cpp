@@ -15,7 +15,7 @@ int main() {
 		sum += score;
 	}
 
-	cout << endl << "The sum of your homework scores is: " << sum << endl;
+	cout << endl << "Homework point sum: " << sum << endl;
 
 	if (sum < 150) {
 		cout << "You Failed." << endl;

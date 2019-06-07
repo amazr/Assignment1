@@ -1,12 +1,12 @@
 Task 1.1: B
         Welcome to Homework Score Sum!
-        Enter home work scores below, when you are done, enter "stop"
+        Enter home work scores below, when you are done, enter "-1"
         Enter score 1: 30
         Enter score 2: 25
         Enter score 3: 14
         Enter score 4: 42
         Enter score 5: 23
-        Enter score 6: stop
+        Enter score 6: -1
         Homework point sum: 134
         Fail
         
