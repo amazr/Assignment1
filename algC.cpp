@@ -34,4 +34,5 @@ int main() {
 	else {
 		cout << "You passed." << endl;
 	}
+	return 0;
 }

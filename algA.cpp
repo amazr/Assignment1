@@ -23,5 +23,6 @@ int main() {
 	else {
 		cout << "You Passed." << endl;
 	}
+	return 0;
     
 }
